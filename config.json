@@ -1,0 +1,7 @@
+
+{
+    "blacklists": {
+        "memecoins": ["SHIB", "DOGE", "FLOKI"],
+        "devs": ["0xABCDEF1234567890", "0x1111111111111111"]
+    }
+}
